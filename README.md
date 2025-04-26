@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 I'm passionate about building cool things with code, learning new technologies, and constantly improving my skills.
 
 ## 🚀 About Me
-- 🔭 Currently working on ![my website](https://kenzoportela.com/)
+- 🔭 Currently working on [my website](https://kenzoportela.com/)
 - 🌱 Currently learning: [What you're currently learning]
 - 💬 Ask me about: [Technologies you're confident in]
 - ⚡ Fun fact: [A quirky or interesting fact about you]
