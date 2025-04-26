@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 I'm passionate about building cool things with code, learning new technologies, and constantly improving my skills.
 
 ## 🚀 About Me
-- 🔭 Currently working on: [Your current project or focus]
+- 🔭 Currently working on ![my website](https://kenzoportela.com/)
 - 🌱 Currently learning: [What you're currently learning]
 - 💬 Ask me about: [Technologies you're confident in]
 - ⚡ Fun fact: [A quirky or interesting fact about you]
@@ -15,7 +15,7 @@ I'm passionate about building cool things with code, learning new technologies, 
 <!-- Add more badges or icons if you want -->
 
 ## 📈 GitHub Stats
-![Kenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzoportela&show_icons=true&theme=tokyonight)
+![Kenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenzoPortela&show_icons=true&theme=tokyonight)
 
 ---
 
