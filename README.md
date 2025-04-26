@@ -8,7 +8,7 @@ I'm passionate about building cool things with code, learning new technologies, 
 - 🌱 Currently learning advanced Python programming by completing [CS50](https://cs50.harvard.edu/python/2022/) by Harvard University
 
 ## 🛠️ Technologies & Tools
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 ![Your favorite language badge](https://img.shields.io/badge/Code-[YourLanguage]-blue?style=flat-square)
 ![Tool you love](https://img.shields.io/badge/Tool-[YourTool]-orange?style=flat-square)
 <!-- Add more badges or icons if you want -->
