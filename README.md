@@ -5,9 +5,7 @@ I'm passionate about building cool things with code, learning new technologies, 
 
 ## 🚀 About Me
 - 🔭 Currently working on [my website](https://kenzoportela.com/)
-- 🌱 Currently learning: [What you're currently learning]
-- 💬 Ask me about: [Technologies you're confident in]
-- ⚡ Fun fact: [A quirky or interesting fact about you]
+- 🌱 Currently learning advanced Python programming by completing [CS50](https://cs50.harvard.edu/python/2022/) by Harvard University
 
 ## 🛠️ Technologies & Tools
 ![Your favorite language badge](https://img.shields.io/badge/Code-[YourLanguage]-blue?style=flat-square)
