@@ -47,4 +47,4 @@ I'm passionate about building cool things with code, learning new technologies, 
 
 Feel free to connect with me!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kenzo-portela-952b71366/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kenzoportela/)
