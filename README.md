@@ -43,13 +43,7 @@ I'm passionate about building cool things with code, learning new technologies, 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 
-## 📈 GitHub Stats
-![Kenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenzoPortela&show_icons=true&theme=tokyonight)
-
 ---
 
 Feel free to connect with me!
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.com/)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KenzoPortela&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kenzo-portela/)
