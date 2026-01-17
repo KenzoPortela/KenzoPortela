@@ -6,6 +6,7 @@ I'm passionate about building cool things with code, learning new technologies, 
 ## 🚀 About Me
 - 🔭 Currently working on [my website](https://kenzoportela.com/)
 - 🌱 Currently learning advanced Python programming by completing [CS50](https://cs50.harvard.edu/python/2022/) by Harvard University
+- 🛠 Just released my first Python package for the community : [PyTop](https://github.com/KenzoPortela/pytop) !
 
 ## 🛠️ Things I use
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
