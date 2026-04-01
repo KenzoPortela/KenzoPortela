@@ -1,12 +1,17 @@
 # Hi there 👋, I'm Kenzo Portela!
 
 Welcome to my GitHub profile!  
-I'm passionate about building cool things with code, learning new technologies, and constantly improving my skills.
+I'm passionate about cybersecurity, building cool things with code, learning new technologies, and constantly improving my skills.
 
 ## 🚀 About Me
 - 🔭 Currently working on [my website](https://kenzoportela.com/)
-- 🌱 Currently learning advanced Python programming by completing [CS50](https://cs50.harvard.edu/python/2022/) by Harvard University
 - 🛠 Just released my first Python package for the community : [PyTop](https://github.com/KenzoPortela/pytop) !
+
+## 🎓 Certification I Have
+- [CS50 Python](https://cs50.harvard.edu/python/2022/) by Harvard University, check my diploma [here](https://certificates.cs50.io/9dbce5dc-946a-4bfa-a17e-fda35e4588ec.pdf)
+- [CS50 Cybersecurity](https://cs50.harvard.edu/cybersecurity/) by Harvard University, diploma coming soon !
+- [Introdution to Cybersecurity](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US) by Cisco Network Academy, check my badge [here](https://www.credly.com/badges/f80780b0-709f-45d5-845f-82304fcbc1ec)
+- [Passe Ton Hack D'abord](https://www.jeunes.gouv.fr/passe-ton-hack-d-abord-le-plus-grand-challenge-de-type-capture-flag-en-france-3067) by the French Ministry of Army, check my badge [here](https://openbadgepassport.com/app/badge/info/1086372)
 
 ## 🛠️ Things I use
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -37,6 +42,7 @@ I'm passionate about building cool things with code, learning new technologies, 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
 
 ## 📲 Platforms I use
 [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/en-us/windows/)
