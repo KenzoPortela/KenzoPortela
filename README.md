@@ -52,7 +52,7 @@ I'm passionate about cybersecurity, building cool things with code, learning new
 
 ---
 
-Feel free to connect with me!
+## 📞 Feel free to connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenzoportela/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:portelakenzo@gmail.com)
