@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 I'm passionate about cybersecurity, building cool things with code, learning new technologies, and constantly improving my skills.
 
 ## 🚀 About Me
-- 🔭 Currently working on [my website](https://kenzoportela.com/), while waiting for the finished version, it should redirect you to my portfolio.
+- 🔭 Currently working on my [website](https://kenzoportela.com/), while waiting for the finished version, you should check my [portfolio](https://portfolio.kenzoportela.com/).
 - 🛠 Just released my first Python package for the community : [PyTop](https://github.com/KenzoPortela/pytop) !
 
 ## 🎓 Certification I Have
