@@ -1,7 +1,7 @@
 # Kenzo Portela
 
-Cybersecurity student at EPITA Paris. I build low-level and web tooling -
-mostly in C, Python and TypeScript - and self-host most of the services I use.
+Cybersecurity student at EPITA Paris. I build low-level and web tooling –
+mostly in C, Python and TypeScript – and self-host most of the services I use.
 
 [kenzoportela.com](https://kenzoportela.com) · [portfolio](https://portfolio.kenzoportela.com/)
 
@@ -16,10 +16,10 @@ mostly in C, Python and TypeScript - and self-host most of the services I use.
 
 ## Certifications
 
-- **CS50P - Introduction to Programming with Python**, Harvard University - [certificate](https://certificates.cs50.io/9dbce5dc-946a-4bfa-a17e-fda35e4588ec.pdf)
-- **CS50 Cybersecurity**, Harvard University - in progress
-- **Introduction to Cybersecurity**, Cisco Networking Academy - [badge](https://www.credly.com/badges/f80780b0-709f-45d5-845f-82304fcbc1ec)
-- **Passe Ton Hack d'Abord**, French Ministry of the Armed Forces - [badge](https://openbadgepassport.com/app/badge/info/1086372)
+- **CS50P - Introduction to Programming with Python**, Harvard University – [certificate](https://certificates.cs50.io/9dbce5dc-946a-4bfa-a17e-fda35e4588ec.pdf)
+- **CS50 Cybersecurity**, Harvard University – in progress
+- **Introduction to Cybersecurity**, Cisco Networking Academy – [badge](https://www.credly.com/badges/f80780b0-709f-45d5-845f-82304fcbc1ec)
+- **Passe Ton Hack d'Abord**, French Ministry of the Armed Forces – [badge](https://openbadgepassport.com/app/badge/info/1086372)
 
 ## Tools
 
