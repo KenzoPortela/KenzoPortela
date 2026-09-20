@@ -1,59 +1,31 @@
-# Hi there 👋, I'm Kenzo Portela!
+# Kenzo Portela
 
-Welcome to my GitHub profile!  
-I'm passionate about cybersecurity, building cool things with code, learning new technologies, and constantly improving my skills.
+Cybersecurity student at EPITA Paris. I build low-level and web tooling —
+mostly in C, Python and TypeScript — and self-host most of the services I use.
 
-## 🚀 About Me
-- 🔭 Currently working on my [website](https://kenzoportela.com/), while waiting for the finished version, you should check my [portfolio](https://portfolio.kenzoportela.com/).
-- 🛠 Just released my first Python package for the community : [PyTop](https://github.com/KenzoPortela/pytop) !
+[kenzoportela.com](https://kenzoportela.com) · [portfolio](https://portfolio.kenzoportela.com/)
 
-## 🎓 Certification I Have
-- [CS50 Python](https://cs50.harvard.edu/python/2022/) by Harvard University, check my diploma [here](https://certificates.cs50.io/9dbce5dc-946a-4bfa-a17e-fda35e4588ec.pdf)
-- [CS50 Cybersecurity](https://cs50.harvard.edu/cybersecurity/) by Harvard University, diploma coming soon !
-- [Introdution to Cybersecurity](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US) by Cisco Network Academy, check my badge [here](https://www.credly.com/badges/f80780b0-709f-45d5-845f-82304fcbc1ec)
-- [Passe Ton Hack D'abord](https://www.jeunes.gouv.fr/passe-ton-hack-d-abord-le-plus-grand-challenge-de-type-capture-flag-en-france-3067) by the French Ministry of Army, check my badge [here](https://openbadgepassport.com/app/badge/info/1086372)
+## Selected projects
 
-## 🛠️ Things I use
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
-[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)](https://notepad-plus-plus.org/)
-[![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)](https://developer.android.com/studio)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [cybertools](https://github.com/KenzoPortela/cybertools) | 540 encoding, crypto and analysis tools behind a single interface, running entirely client-side | Vue, TypeScript |
+| [tartarus-hasher](https://github.com/KenzoPortela/tartarus-hasher) | Memory-hard password hashing algorithm in the spirit of Argon2id, written from scratch | C |
+| [pytop](https://github.com/KenzoPortela/pytop) | htop-style system monitor for Windows: real-time CPU, GPU and memory metrics, process management | Python |
+| [hexguess](https://github.com/KenzoPortela/hexguess) | Hex colour guessing game, an extended take on Hexcodle | HTML, CSS, JS |
 
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-[![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)](https://p5js.org/)
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)](https://expo.dev/)
-[![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7)](https://pypi.org/)
+## Certifications
 
-## 📚 Languages I use
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+- **CS50P — Introduction to Programming with Python**, Harvard University — [certificate](https://certificates.cs50.io/9dbce5dc-946a-4bfa-a17e-fda35e4588ec.pdf)
+- **CS50 Cybersecurity**, Harvard University — in progress
+- **Introduction to Cybersecurity**, Cisco Networking Academy — [badge](https://www.credly.com/badges/f80780b0-709f-45d5-845f-82304fcbc1ec)
+- **Passe Ton Hack d'Abord**, French Ministry of the Armed Forces — [badge](https://openbadgepassport.com/app/badge/info/1086372)
 
+## Tools
 
-## 📲 Platforms I use
-[![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/en-us/windows/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+C · Python · TypeScript · JavaScript · PHP — React, Vue, Vite, Tailwind, Flask, Django —
+Docker, Linux, Expo
 
+## Contact
 
----
-
-## 📞 Feel free to connect with me!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenzoportela/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:portelakenzo@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/zokenachu)
+[LinkedIn](https://www.linkedin.com/in/kenzoportela/) · [kenzo@kenzoportela.com](mailto:kenzo@kenzoportela.com)
